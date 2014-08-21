@@ -1,0 +1,28 @@
+#link  {
+	width:300px;
+	margin:0px auto 0px auto;
+	padding:0px;
+}
+
+#link ul {
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+}
+
+#link li {
+	float:left;
+	width:100px;
+}
+
+#link a {
+	text-align:center;
+	display:block;
+
+}
+
+#comment {
+	clear:both;
+	width:500px;
+	margin:0px auto 0px auto;
+}
